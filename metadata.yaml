@@ -1,0 +1,25 @@
+_repo: Musta-naamio-b-Kertomus_75108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waldheim, R.
+    gutenberg_agent_id: '57833'
+    url: http://www.gutenberg.org/2009/agents/57833
+description: ''
+gutenberg_issued: '2025-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75108'
+language: fi
+pgterms:marc905: 20250111000608waldheim
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHamina :$bAlfred Lagerbom, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Musta naamio : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/75108
