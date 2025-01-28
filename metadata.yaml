@@ -1,11 +1,16 @@
 _repo: Musta-naamio-b-Kertomus_75108
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Waldheim, R.
     gutenberg_agent_id: '57833'
     url: http://www.gutenberg.org/2009/agents/57833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75108#Musta-naamio-b-Kertomus
 gutenberg_issued: '2025-01-14'
 gutenberg_type: Text
 identifiers:
